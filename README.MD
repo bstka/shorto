@@ -7,8 +7,8 @@
     <img src="https://circleci.com/gh/bstka/shorto.svg?style=svg&circle-token=8ab6effe9810977de211c022dc8d3e83efaacdf3" height="20" width="80">
   </a>
   
-  <a href="https://travis-ci.com/bstka/recoro">
-    <img src="https://travis-ci.com/bstka/recoro.svg?branch=master" height="20" width="90">
+  <a href="https://travis-ci.com/bstka/shorto">
+    <img src="https://travis-ci.com/bstka/shorto.svg?token=scscR8V7rzMyp5cqbdFs&branch=master" height="20" width="90">
   </a>
   
   <a href="https://github.com/bstka/shorto">
