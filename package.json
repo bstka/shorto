@@ -1,0 +1,31 @@
+{
+  "name": "hapishort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test jest --detectOpenHandles",
+    "dev": "cross-env NODE_ENV=dev nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Bismantaka Aldila",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@hapi/code": "^8.0.1",
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/lab": "^22.0.4",
+    "cross-env": "^7.0.2",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "esm": "^3.2.25",
+    "jest": "^25.3.0"
+  },
+  "description": ""
+}
