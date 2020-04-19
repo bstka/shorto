@@ -27,5 +27,8 @@
     "esm": "^3.2.25",
     "jest": "^25.3.0"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "description": ""
 }

@@ -19,7 +19,7 @@ Server.route(Routes)
 
 const init = async () => {
     await Server.start()
-    // await Database()
+    await Database()
     if (process.env.NODE_ENV === 'dev' || process.env.NODE_ENV === 'prod') {
         console.log('Server Running on %s', Server.info.uri)
     }
