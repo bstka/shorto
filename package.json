@@ -17,7 +17,8 @@
     "@hapi/lab": "^22.0.4",
     "cross-env": "^7.0.2",
     "mongoose": "^5.9.7",
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.3",
+    "esm": "^3.2.25"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
